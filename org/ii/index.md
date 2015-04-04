@@ -2,22 +2,27 @@
 layout: org
 title: ii
 ---
+```
 i  : have an an idea
 i! : share with the world
 !i : allow everyone to modify
 ii : and be part of it
+```
 
+```
 ii is about people
 all of us to participlating
 with technological inclusion
+```
 
-ii should be accessible to anyone as a standalone usb gadget
-that can by programmed via a web interface to customize the
-target hardware and OS that the gadget deploys.
+ii should be accessible to anyone as standalone usb gadgets
+that can by programmed to customize the target hardware and
+OS that the gadget deploys.
 
 An obvious target is an Android phone that can reimage other phones (and do everything else ii can do).
 
-However the initial target will be a raspberry/banana pi image that can be used to setup computers and other pi's from scratch via:
+However the initial target will be a raspberry/banana pi image
+that can be used to setup computers and other pi's from scratch via:
 
 * ethernet (pxe)
 * wifi (netboot on Apple products).
